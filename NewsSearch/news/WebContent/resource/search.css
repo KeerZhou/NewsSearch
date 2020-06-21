@@ -1,0 +1,94 @@
+#search-2020 {
+	float: left;
+	width: 100%;
+	padding: 4px 86px 0 0;
+}
+
+#search-2020 input {
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	border: 0
+}
+
+#search-2020 .i-search {
+	z-index: 11;
+	width: 500px;
+	height: 35px;
+	margin-bottom: 3px;
+	border: 3px solid #dcd0fb;
+	margin: 0 auto;
+}
+
+#search-2020 .form {
+	height: 35px;
+	overflow: hidden
+}
+
+#search-2020 .text {
+	width: 390px;
+	height: 35px;
+	padding: 5px;
+	background-position: 0 -360px;
+	background-color: #fff;
+	background-repeat: repeat-x;
+	line-height: 20px;
+	color: #999;
+	font-family: arial, "\5b8b\4f53";
+	font-size: 22px
+}
+
+#search-2020 .button {
+	width: 100px;
+	height: 37px;
+	background: #dcd0fb;
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff
+}
+
+#search-2020 .text,#search-2013 .button {
+	-webkit-appearance: none;
+	-webkit-border-radius: 0
+}
+
+#search-2020 #shelper {
+	overflow: hidden;
+	position: absolute;
+	top: 32px;
+	left: -3px;
+	width: 308px;
+	border: 1px solid #E4393C;
+	background: #fff;
+	-moz-box-shadow: 0 0 5px #999;
+	-webkit-box-shadow: 0 0 5px #999;
+	box-shadow: 0 0 5px #999
+}
+
+#search-2020 #shelper li.close:hover {
+	background: 0
+}
+
+#search-2020 .text:focus {
+	background-color: #fcfcfc;
+	-webkit-box-shadow: 2px 2px 3px #d2d2d2 inset;
+	-moz-box-shadow: 2px 2px 3px #d2d2d2 inset;
+	box-shadow: 2px 2px 3px #d2d2d2 inset
+}
+
+.root61 #search-2020 #shelper {
+	width: 418px
+}
+
+.searchhead {
+	width: 100%;
+	height: 250px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.logo {
+	width: 30%;
+	height: 45%;
+}
